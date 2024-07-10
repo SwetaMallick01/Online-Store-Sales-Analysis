@@ -9,23 +9,23 @@ This project involves analyzing the sales data of an online store to uncover ins
 
 # Steps
 ## 1. Data Cleaning
-1. Remove duplicates.
-2. Handle missing values.
-3. Convert data types as needed.
-4. Extract useful information ( age group, month) from existing columns.
+1. Removed duplicates.
+2. Handled missing values.
+3. Converted data types as needed.
+4. Extracted useful information ( age group, month) from existing columns.
 
 ## Exploratory Data Analysis (EDA)   
-1. Calculate total sales per month.
+1. Calculated total sales per month.
 2. Calculated total sales by Age and Gender
-4. Analyze top 5 States
-5. Calculates Sales by Men and Women
-6. Calculated Order status
-7. Determine the best channels for sales
+3. Analyzed top 5 States
+4. Calculated Sales by Men and Women
+5. Calculated Order status
+6. Determined the best channels for sales
 
 ## 3. Data Visualization
-1. Create bar charts, line graphs, and pie charts to represent sales data.
+1. Created bar charts, line graphs, and pie charts to represent sales data.
 3. Use pivot tables to summarize data.
-4. Develop a dashboard to present key insights interactively.
+4. Developed a dashboard to present key insights interactively.
 
 ## Dashboard
 ![Screenshot 2024-07-10 135940](https://github.com/SwetaMallick01/Online-Store-Sales-Analysis/assets/132562651/a13872ba-02d4-4191-b941-fe8dca4c4658)
@@ -43,8 +43,8 @@ This project involves analyzing the sales data of an online store to uncover ins
 4. Age-Based Sales Insights: Age Group ( 30-49) Max contribution - 50%
 5. Top 3 channels: The channels with the highest sales volumes are Amazon, Flipkart and Myntra.
 
-## Conclusion
-Targeted Marketing: Target women ( 30-49 ) age group living in Maharastra, Karnataka, and UP. Implement loyalty programs that cater to the spending habits 
+## Recommendations
+Target women ( 30-49 ) age group living in Maharastra, Karnataka, and UP. Implement loyalty programs that cater to the spending habits 
 offering rewards/offers/coupons on Amazon, Flipkart and Myntra to increase the sales.
 
 
